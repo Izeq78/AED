@@ -1,1 +1,1 @@
-(Pendiente)
+MinGW + Microsoft Visual Studio Code
