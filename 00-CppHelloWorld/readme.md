@@ -1,6 +1,6 @@
-#TP0 Hello, World!
+# TP0 Hello, World!
 
-##Consignas
+## Consignas
 
 1-Crear cuenta de GitHub.
 
