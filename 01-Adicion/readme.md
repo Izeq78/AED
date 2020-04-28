@@ -13,7 +13,7 @@ Para facilitar la presentacion final del resultado, utilizo una tercer variable 
 
 ## Modelo IPO
 
-![alt text](https://github.com/Izeq78/AED/blob/Tp1/Images/Tp1/Ipo1.png)
+![alt text](https://github.com/Izeq78/AED/blob/master/Images/Tp1/Ipo1.png)
 
 # Diseño de la Solución
 
@@ -34,4 +34,4 @@ Para facilitar la presentacion final del resultado, utilizo una tercer variable 
 
 ## Representación del Algoritmo
 
-![alt text](https://github.com/Izeq78/AED/blob/Tp1/Images/Tp1/Adicion_RepGraf.png)
+![alt text](https://github.com/Izeq78/AED/blob/master/Images/Tp1/Adicion_RepGraf.png)
