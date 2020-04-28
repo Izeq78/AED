@@ -6,9 +6,10 @@ Obtener del usuario dos números y mostrarle la suma.
 
 ## Refinamiento del problema e Hipótesis de trabajo.
 
-Para este problema requiero de dos variables como minimo para almacenar los valores de los enteros que pienso sumar. 
-En mi caso, decidi utilizar tres variables, ademas de mostrar texto para cada input  para la presentacion final.
-A su vez, utilizo la tercer variable para almacenar el resultado de la suma y facilitar la presentacion final.
+Para este problema se requieren, como minimo, dos variables.
+Estas se utilizan para almacenar los numeros enteros que ingresa el usuario. 
+En mi caso, decidi mostrar consignas entre cada input, ademas de una presentacion final del resultado.
+Para facilitar la presentacion final del resultado, utilizo una tercer variable en la que almaceno el resultado de la suma.
 
 ## Modelo IPO
 
