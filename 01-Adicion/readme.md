@@ -9,7 +9,7 @@ Obtener del usuario dos números y mostrarle la suma.
 ## Refinamiento del problema e Hipótesis de trabajo.
 
 Para mi resolucion, el usuario ingresa dos numeros enteros por el teclado, se suman y se muestra el resultado en la pantalla.
-Para este problema se requieren, como minimo, dos variables del tipo int.
+De tal manera, se requieren, como minimo, dos variables del tipo int.
 Estas se utilizan para almacenar los numeros enteros que ingresa el usuario. 
 En mi caso, decidi mostrar consignas entre cada input, ademas de una presentacion final del resultado.
 Ademas, decidi utilizar una tercer variable del tipo int para almacenar el resultado.
