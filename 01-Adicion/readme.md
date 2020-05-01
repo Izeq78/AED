@@ -1,21 +1,26 @@
 # Análisis del problema
 
+---
+
 ## Transcripción del problema
 
 Obtener del usuario dos números y mostrarle la suma.
 
 ## Refinamiento del problema e Hipótesis de trabajo.
 
-Para este problema se requieren, como minimo, dos variables.
+Para mi resolucion, el usuario ingresa dos numeros enteros por el teclado, se suman y se muestra el resultado en la pantalla.
+Para este problema se requieren, como minimo, dos variables del tipo int.
 Estas se utilizan para almacenar los numeros enteros que ingresa el usuario. 
 En mi caso, decidi mostrar consignas entre cada input, ademas de una presentacion final del resultado.
-Para facilitar la presentacion final del resultado, utilizo una tercer variable en la que almaceno el resultado de la suma.
+Ademas, decidi utilizar una tercer variable del tipo int para almacenar el resultado.
 
 ## Modelo IPO
 
 ![alt text](https://github.com/Izeq78/AED/blob/master/Images/Tp1/Ipo1.png)
 
 # Diseño de la Solución
+
+---
 
 ## Léxico del algoritmo
 
