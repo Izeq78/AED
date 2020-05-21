@@ -19,12 +19,20 @@ En mi caso, utilice una cadena de condicionales en las que se realizaban operaci
 ## Lexico del algoritmo
 
 - Presento todas las variables que voy a utilizar.
-- Propongo que si la variable b, del tipo bool, es verdadera, se muestre en pantalla la cadena s1 del tipo string seguida de c del tipo char.
-- Si, ademas, mediante la division entera de i, del tipo int, se obtiene un valor igual al de u del tipo unsigned introduzco en c la suam de c y u.
-Ademas, muestro en pantalla la cadena s2 seguida de c.
-- Finalmente, si tambien se cumple que la variable d del tipo double se encuentra entre dos numeros enteros consecutivos especificos prosigo a 
-obtener la parte entera de d en una variable entd. 
-Luego, introduzco en c el valor de c mas entd. Como ultimo paso, presento en pantalla la cadena s3 seguida de c.
+
+- Propongo la condicion de que la variable *b*, del tipo *bool*, sea verdadera
+
+- Si se cumple la condicion muestro en pantalla la cadena *s1* del tipo *string* seguida de *c* del tipo *char*.
+
+- Presento como condicion que, ademas, la division entera de *i*, del tipo *int*, debe dar un valor igual al de *u* del tipo *unsigned*.
+
+- En caso de cumplirse la condicion, introduzco en *c* la suma de *c* y *u*. Ademas, muestro en pantalla la cadena *s2* seguida de *c*.
+
+- Finalmente, propongo que tambien la variable *d* del tipo *double* se encuentra entre dos numeros enteros consecutivos especificos.
+
+- Suponiendo que la condicion se cumpla, procedo a obtener la parte entera de *d* en una variable *entd*.
+
+- Luego, introduzco en *c* el valor de *c* mas *entd*. Como ultimo paso, presento en pantalla la cadena *s3* seguida de *c*.
 
 ---
 
