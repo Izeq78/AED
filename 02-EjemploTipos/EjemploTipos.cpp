@@ -12,7 +12,7 @@ int main () {
     std::string s1 = "En ASCII el 77 representa el caracter: ";
     std::string s2 = "En ASCII el 84 representa el caracter: ";
     std::string s3 = "En ASCII el 86 representa el caracter: ";
-    if (b==true); {
+    if (b==false); {
         std::cout << s1 << c << "\n";
         if (i%8 == u) {
             c = c + u;
