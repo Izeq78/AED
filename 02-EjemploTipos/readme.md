@@ -1,6 +1,7 @@
 # Analisis del problema
 
---
+---
+
 ## Transcripcion del problema
 
 Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos vistos en clase.
@@ -14,6 +15,8 @@ No se puede utilizar cin, todos los valores deben ser constantes.
 # Diseño de la solucion 
 
 En mi caso, utilice una cadena de condicionales en las que se realizaban operaciones y se verificaban propiedades realicionadas a los diferentes tiposde datos.
+
+---
 
 ## Lexico del algoritmo
 
