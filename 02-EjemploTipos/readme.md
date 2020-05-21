@@ -1,6 +1,6 @@
 # Analisis del problema
 
--
+--
 ## Transcripcion del problema
 
 Diseñar un programa C++ que ejemplifique la aplicación de los tipos de datos vistos en clase.
