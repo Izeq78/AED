@@ -26,14 +26,16 @@ Ademas, muestro en pantalla la cadena s2 seguida de c.
 obtener la parte entera de d en una variable entd. 
 Luego, introduzco en c el valor de c mas entd. Como ultimo paso, presento en pantalla la cadena s3 seguida de c.
 
+---
+
 # Credito extra
 
-## ¿Son esos realmente todos los tipos de datos que vimos en clase? Justifique.
+### ¿Son esos realmente todos los tipos de datos que vimos en clase? Justifique.
 
 No, no son todos. En clase comprobamos que casi cualquier cosa puede agruparse para ser un tipo de dato. 
 Son ejemplo de otros tipos de datos los colores, las especies de animales, los tipos de maderas.
 
-## No utilice cout y si utilice assert para las pruebas.
+### No utilice cout y si utilice assert para las pruebas.
 
 No se cumplio con esta condicion en mi resolucion.
 
