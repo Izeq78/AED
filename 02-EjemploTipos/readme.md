@@ -26,7 +26,9 @@ En mi caso, utilice una cadena de condicionales en las que se realizaban operaci
 
 - Presento como condicion que, ademas, la division entera de *i*, del tipo *int*, debe dar un valor igual al de *u* del tipo *unsigned*.
 
-- En caso de cumplirse la condicion, introduzco en *c* la suma de *c* y *u*. Ademas, muestro en pantalla la cadena *s2* seguida de *c*.
+- En caso de cumplirse la condicion, introduzco en *c* la suma de *c* y *u*.
+
+- Ademas, muestro en pantalla la cadena *s2* seguida de *c*.
 
 - Finalmente, propongo que tambien la variable *d* del tipo *double* se encuentra entre dos numeros enteros consecutivos especificos.
 
