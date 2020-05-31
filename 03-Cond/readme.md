@@ -30,9 +30,9 @@ Ademas se debe definir cada funcion utilizando el operador condicional.
 
 ### Pruebas
 
-`assert(abs(3) = 3)
+`assert(abs(3) = 3)`
 
-assert(abs(-8) = 8)`
+`assert(abs(-8) = 8)`
 
 ### Prototipos
 
@@ -41,9 +41,7 @@ assert(abs(-8) = 8)`
 ### Definiciones
 
 `double abs(double x) {
-	
 	return x < 0 ? -x : x;
-
 }`
 
 ---
@@ -56,9 +54,9 @@ assert(abs(-8) = 8)`
 
 ### Pruebas
 
-`assert(min(8, 3) == 3);
+`assert(min(8, 3) == 3);`
 
-assert(min(5, 15) == 5);`
+`assert(min(5, 15) == 5);`
 
 ### Prototipos
 
@@ -67,9 +65,7 @@ assert(min(5, 15) == 5);`
 ### Definiciones
 
 `double min(double x,double y) {
-	
 	return x < y ? x : y;
-
 }`
 
 ---
@@ -82,15 +78,15 @@ assert(min(5, 15) == 5);`
 
 ### Pruebas
 
-`assert(f3(9) == 9);
+`assert(f3(9) == 9);`
 
-assert(f3(-15) == -15);
+`assert(f3(-15) == -15);`
 
-assert(f3(2) == -2);
+`assert(f3(2) == -2);`
 
-assert(f3(3) == -3);
+`assert(f3(3) == -3);`
 
-assert(f3(-3) == 3);`
+`assert(f3(-3) == 3);`
 
 ### Prototipos
 
@@ -99,7 +95,5 @@ assert(f3(-3) == 3);`
 ### Definiciones
 
 `double f3(double x) {
-	
 	return x <= 3 and x >= -3 ? -x : x;
-
 }`
