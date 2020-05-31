@@ -42,6 +42,7 @@ assert(abs(-8) = 8)`
 `double abs(double x) {
 	return x < 0 ? -x : x;
 }`
+
 ---
 
 ## Valor Minimo
