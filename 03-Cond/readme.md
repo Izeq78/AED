@@ -10,7 +10,7 @@ Desarrollar las siguientes funciones:
 
 3. Función *f3* , definida por:
 
-**imagen**
+![alt text](https://github.com/Izeq78/AED/blob/master/Images/Tp3/Grafico%20f3.png)
 
 ## Redinamiento e hipotesis de trabajo
 
@@ -26,7 +26,7 @@ Ademas se debe definir cada funcion utilizando el operador condicional.
 
 ### Lexico
 
-**imagen**
+![alt text](https://github.com/Izeq78/AED/blob/master/Images/Tp3/abs%20lexico.png)
 
 ### Pruebas
 
@@ -50,7 +50,7 @@ Ademas se debe definir cada funcion utilizando el operador condicional.
 
 ### Lexico
 
-**imagen**
+![alt text](https://github.com/Izeq78/AED/blob/master/Images/Tp3/min%20lexico.png)
 
 ### Pruebas
 
@@ -74,7 +74,7 @@ Ademas se debe definir cada funcion utilizando el operador condicional.
 
 ### Lexico
 
-**imagen**
+![alt text](https://github.com/Izeq78/AED/blob/master/Images/Tp3/f3%20lexico.png)
 
 ### Pruebas
 
