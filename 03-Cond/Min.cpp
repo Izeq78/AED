@@ -6,18 +6,18 @@ Higa,Ivan Ezequiel
 
 //declaro la funcion
 
-double f(double,double);
+double min(double,double);
 
 int main() {
 
 	//realizo los asserts correspondientes
 
-	assert(f(8, 3) == 3);
-	assert(f(5, 15) == 5);
+	assert(min(8, 3) == 3);
+	assert(min(5, 15) == 5);
 }
 
 //defino la funcion
 
-double f(double x,double y) {
+double min(double x,double y) {
 	return x < y ? x : y;
 }

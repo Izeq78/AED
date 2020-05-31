@@ -10,7 +10,7 @@ double abs(double);
 
 int main(){
 
-	//realizo el assert para comprobar su funcionamiento
+	//ejecuto la funcion y realizo el assert para comprobar su funcionamiento
 
 	assert(abs(3) == 3);
 	assert(abs(-8) == 8);
