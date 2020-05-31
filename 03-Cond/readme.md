@@ -12,7 +12,7 @@ Desarrollar las siguientes funciones:
 
 ![alt text](https://github.com/Izeq78/AED/blob/master/Images/Tp3/Grafico%20f3.png)
 
-## Redinamiento e hipotesis de trabajo
+## Refinamiento e hipotesis de trabajo
 
 El objetivo del trabajo es demostrar manejo de funciones y del operador condicional. 
 Las pruebas deben realizarse con assert, por lo que no se necesita incluir la biblioteca iostream.
