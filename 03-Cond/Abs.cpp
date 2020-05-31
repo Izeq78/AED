@@ -10,7 +10,7 @@ double f(double);
 
 int main(){
 
-	//ejecuto la funcion y realizo el assert para comprobar su funcionamiento
+	//realizo el assert para comprobar su funcionamiento
 
 	assert(f(3) == 3);
 	assert(f(-8) == 8);
