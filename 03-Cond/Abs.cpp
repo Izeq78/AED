@@ -6,20 +6,20 @@ Higa, Ivan Ezequiel
 
 //declaro la funcion
 
-double f(double);
+double abs(double);
 
 int main(){
 
 	//realizo el assert para comprobar su funcionamiento
 
-	assert(f(3) == 3);
-	assert(f(-8) == 8);
+	assert(abs(3) == 3);
+	assert(abs(-8) == 8);
 	
 }
 
 //defino la funcion
 
-double f(double x) {
+double abs(double x) {
 	return x < 0 ? -x : x;
 }
 
