@@ -27,7 +27,7 @@ La salida seran datos del tipo bool.
 
 Defino la funcion y los asserts para comprobar su funcionamiento.
 
-### Lexico
+### Léxico
 
 IsBisiesto: Z → B / IsBisiesto(year)= p ∧ (q ∧ (r ∨ ~s))
 
