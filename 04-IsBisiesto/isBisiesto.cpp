@@ -10,6 +10,7 @@ int main(){
     assert(IsBisiesto(1999)==false);     //no es divisible ni por 400 ni 4
     assert(IsBisiesto(1700)==false);     //divisble por 100 y por 4 pero no 400
     assert(IsBisiesto(1600));            //divisible por 4 y por 400
+    assert(IsBisiesto(1000) == false);   //menor a 1582
 }
 
 bool IsBisiesto(int year){
