@@ -25,6 +25,10 @@ Decido aceptar enteros como entrada de mi funcion.
 
 Defino la funcion y los asserts para comprobar su funcionamiento.
 
+### Lexico
+
+IsBisiesto: Z → B / IsBisiesto(year)= p ∧ (q ∧ (r ∨ ~s))
+
 ### Arbol de expresion
 
 p= año mayor a 1582
