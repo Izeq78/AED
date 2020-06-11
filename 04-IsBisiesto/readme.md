@@ -13,7 +13,7 @@ Determinar si un año es bisiesto.
 ### Hipotesis de trabajo 
 
 Se toma como año bisiesto a aquellos que son divisibles por 4 y posteriores o iguales al 1582. 
-Ademas se requiere que no sean divisibles por 100 o, si lo son, tambien, deben ser divisibles por 400.
+Ademas se requiere que no sean divisibles por 100 o, si lo son, deben ser divisibles por 400 al mismo tiempo.
 Decido aceptar enteros como entrada de mi funcion.
 La salida seran datos del tipo bool.
 
