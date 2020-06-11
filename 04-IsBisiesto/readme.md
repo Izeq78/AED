@@ -54,6 +54,9 @@ s= año divisible por 100
 
 `assert(IsBisiesto(1600));                   //divisible por 4 y por 400`
 
+`assert(IsBisiesto(1000)==false);                //menor a 1582`
+
+
 ### Prototipos
 
 `bool IsBisiesto(int);`
