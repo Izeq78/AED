@@ -55,6 +55,8 @@ s= año divisible por 100
 ### Definiciones
 
 `bool IsBisiesto(int year){
-    return year> 1582 and (year % 4 == 0) and ((year % 400 == 0) or (year % 100 != 0));
+   
+   return year> 1582 and (year % 4 == 0) and ((year % 400 == 0) or (year % 100 != 0));
+   
 }`
 
