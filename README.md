@@ -1,6 +1,4 @@
-# AED
-Repositorio Personal (TPs individuales)
-
+# AED Repositorio Personal (TPs individuales)
 
 Curso: K1051  
 
